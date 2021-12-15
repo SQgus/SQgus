@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SQgus
+- 👀 I’m interested in becoming a Full Stack Dev
+- 🌱 I’m currently learning HTML/CSS, JavaScript, React, Python, C#, SQL
+- 💞️ I’m looking to collaborate on Mobile and Web Development, and Game Development
+- 📫 How to reach me at gustavopinheiroct@gmail.com | linkedin.com/in/guspct/ 
