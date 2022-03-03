@@ -2,4 +2,4 @@
 - 👀 I’m interested in becoming a Front End Dev/Game Dev
 - 🌱 I’m currently learning HTML/CSS, JavaScript, React, Python, C#, SQL
 - 💞️ I’m looking to collaborate on Mobile and Web Development, and Game Development
-- 📫 How to reach me at gustavopinheiroct@gmail.com | linkedin.com/in/guspct/ 
+- 📫 How to reach me at gustavopinheiroct@gmail.com | www.linkedin.com/in/guspct/ 
